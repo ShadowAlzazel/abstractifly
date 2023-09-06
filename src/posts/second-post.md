@@ -10,6 +10,6 @@ published: true
 
 ## Svelte
 
-Media inside the **static** folder is server from `/`
+Media inside the **static** folder is server from `/`.
 
-![Svelte](favigon.png)
+![Svelte](favicon.png)

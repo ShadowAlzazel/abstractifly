@@ -10,10 +10,10 @@ published: true
 
 ## Markdown
 
-Hey Everyone
+Hey Everyone 💎
 
 ```ts
 function greet(name: string) {
-    console.log(`Hey ${name}`)
+    console.log(`Hey ${name} 💎💎`)
 }
 ```
